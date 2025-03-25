@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Thibaut Courtois</nombre>
+                <nacionalidad>Bélgica</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Kylian Mbappe</nombre>
+                <nacionalidad>Francia</nacionalidad>
+            </jugador>
+    </equipo>
+    <equipo>
+        <nombre>Club Atlético Osasuna</nombre>
+        <ciudad>Pamplona</ciudad>
+        <jugadores>
+            <jugador posicion="defensa">
+                <nombre>Enzo Boyomo</nombre>
+                <nacionalidad>Francia</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Bryan Zaragoza</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+    </equipo>
+</equipo>
